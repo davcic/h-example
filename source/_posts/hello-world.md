@@ -11,5 +11,5 @@ changing post text
 
  Test Hexo with a webhook 2
 
-More text is better.
+More text is better...
 
