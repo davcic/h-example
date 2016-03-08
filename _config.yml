@@ -13,7 +13,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://davcic.github.io
-root: /h-example/
+root: /hexo-test/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -69,6 +69,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:davcic/h-example.git
+  repo: git@github.com:davcic/hexo-test.git
   branch: gh-pages
 
